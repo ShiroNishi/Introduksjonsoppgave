@@ -9,3 +9,5 @@ Ved å bruke det du har lært av html, css og javascript skal du lage en nettsid
     et bilde av deg
 
     en knapp du kan trykke på som endrer bakgrunnsfarge på noe på nettsiden. 
+
+https://shironishi.github.io/Introduksjonsoppgave/
